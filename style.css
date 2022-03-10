@@ -52,5 +52,10 @@ h2
 .icons img:hover
 {
     filter: invert(100%);
-    
+
+}
+
+.icons a
+{
+    text-decoration: none;
 }
