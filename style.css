@@ -45,5 +45,12 @@ h2
 {
     height: 50px;
     width: auto;
+    filter: invert(80%);
+    margin-right: 10px; margin-left: 10px;
 }
 
+.icons img:hover
+{
+    filter: invert(100%);
+    
+}
