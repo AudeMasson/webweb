@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam&display=swap');
+
+
+
 html{
     background-image: url("background_aude.jpg");
     background-size: cover;
@@ -12,14 +16,16 @@ html{
 
 h1
 {
-    color:red;
+    color: white;
     text-align: center;
+    margin-top: 13%;
+    font-family: 'Kufam', sans-serif ;
 }
 
 
 h3
 {
-    color: rgb(28, 199, 162);
+    color: rgba(255, 255, 255, 0.719);
     text-align: center;
 
 }
